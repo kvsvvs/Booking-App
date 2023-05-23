@@ -10,8 +10,13 @@
   "author": "Kartikeya Vikram SIngh",
   "license": "ISC",
   "dependencies": {
+    "app-root-path": "^3.1.0",
+    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.22",
     "serve-favicon": "^2.5.0",
     "winston": "^3.8.2"
